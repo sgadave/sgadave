@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sgadave)
 
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgadave&show_icons=true&theme=radical)](https://github.com/sgadave)
 
