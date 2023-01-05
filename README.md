@@ -81,9 +81,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sgadave/sgadave)
 
-
-[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=sgadave&repo=chess.github.io)](https://github.com/sgadave/sgadave)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
