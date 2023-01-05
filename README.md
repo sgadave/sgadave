@@ -65,6 +65,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/sgadave/sgadave/blob/main/icons/python.svg" alt="PYTHON" width="55" height="55"/>
 </a>
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/c-sharp.svg" alt="PYTHON" width="55" height="55"/>
+</a>
+
 </p>
 
 
@@ -75,24 +79,13 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sgadave)
 
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgadave&show_icons=true&theme=radical)](https://github.com/sgadave/sgadave)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgadave&show_icons=true&theme=radical)](https://github.com/sgadave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgadave)](https://github.com/sgadave/sgadave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgadave&langs_count=10)](https://github.com/sgadave)
 
   
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+-----------------------------------------------
 
-
-
-### :writing_hand: Blog Posts :
-
-
-
-
-<!---
-gunjalrushabh/gunjalrushabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
