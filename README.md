@@ -77,10 +77,12 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgadave&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgadave)](https://github.com/sgadave/sgadave)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgadave&show_icons=true&theme=dark)](https://github.com/sgadave/sgadave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sgadave/sgadave)
 
+
+[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=sgadave&repo=chess.github.io)](https://github.com/sgadave/chess.github.io)
   
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
