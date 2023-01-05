@@ -12,11 +12,58 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://docs.oracle.com/en/java/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/javalogo.svg" alt="JAVA" width="40" height="40"/>
+</a>
 
 
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/react.svg" alt="REACT" width="40" height="40"/>
+</a>
 
 
+<a href="https://spring.io/tools" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/spring.svg" alt="SPRING" width="40" height="40"/>
+</a>
 
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/redux.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/css.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://html.spec.whatwg.org/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/html-5.svg" alt="HTML-5" width="40" height="40"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/js.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/mysql.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/nodejs.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/aws.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/git.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/dotnet.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/aws.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+</p>
 
 
 
