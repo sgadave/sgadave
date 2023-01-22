@@ -2,8 +2,10 @@
 - 👀 I’m interested in learning root of every cause
 - 🌱 I’m currently learning Advance Computing 
 - 💞️ I’m looking to collaborate on problem solving
-- 📫 How to reach me https://www.linkedin.com/in/swapnil-gadave-8a090318b
-
+- 📫 How to reach me 
+<a href="https://www.linkedin.com/in/swapnil-gadave-8a090318b" target="_blank">
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/linkedin.svg" alt="JAVA" width="55" height="55"/>
+</a>
 
 
 <!---
