@@ -80,10 +80,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <a href="https://www.python.org/" target="_blank">
 <img src="https://github.com/sgadave/sgadave/blob/main/icons/python.svg" alt="PYTHON" width="55" height="55"/>
-</a>
-
-&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+</a>&nbsp;<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="https://github.com/sgadave/sgadave/blob/main/icons/c-sharp.svg" alt="PYTHON" width="55" height="55"/>
 </a>
 
